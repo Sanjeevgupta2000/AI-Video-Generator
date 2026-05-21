@@ -1,0 +1,6 @@
+﻿gradio
+huggingface_hub
+pillow==9.5.0
+moviepy==1.0.3
+imageio-ffmpeg
+numpy
