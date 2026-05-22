@@ -1,12 +1,12 @@
 # AI Studio – Free AI Video Generator MVP
 
-<div align="center">
+#<div align="center">
 
 🚀 AI-powered content creation app built with Python, Gradio, and Hugging Face
 
 Create AI images, convert them into videos, add captions, background music, branding, and export short-form content — all in one place.
 
-</div>
+#</div>
 
 ---
 
